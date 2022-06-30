@@ -23,4 +23,4 @@ alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-t
 - Estudando atualmente: HTML5, CSS3, JAVASCRIPT!!
 - Interessado em aprender: SASS, Bootstrap, JS, ES6, PHP 7, OO, MySQL, JQuery, MVC, APIs, IONIC..
 - Apaixonado por tecnologia!! <br>
-- Contato: <a href="mailto:nelsoonerr@outlook.com">📧Clique aqui!!</a>
+- Contato: <a href="mailto:nelsoonerr@outlook.com">E-mail</a>
