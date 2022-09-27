@@ -20,7 +20,7 @@ alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-t
 ### Sobre mim.
 
 - Iniciante na Programação!! <br>
-- Estudando atualmente: HTML5, CSS3, Bootstrap e JS!!
-- Interessado em aprender: Bootstrap, JS, PHP 7, IONIC..
+- Estudando atualmente: HTML5, CSS3, Python!!
+- Interessado em aprender: React JavaScript!!
 - Apaixonado por tecnologia!! <br>
 - Contato: <a href="mailto:nelsoonerr@outlook.com">E-mail</a>
